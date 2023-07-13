@@ -1,0 +1,1 @@
+﻿create view V1 as select id from emp1
